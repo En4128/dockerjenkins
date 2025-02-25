@@ -3,7 +3,7 @@ public class demo {
         // Print a message to the console as output
         
         System.out.println("Hello all welcome to Jenkins");
-        System.out.println("Hello all welcome to Git");   
+        System.out.println("Hello all welcome to Github");   
         System.out.println("Hello all welcome to Docker");     
     } 
     
